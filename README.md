@@ -4,6 +4,7 @@
 PRPEE 1.2
 =====
 Egg Exporter for Blender 2.8+ and Panda3D with or without RenderPipeline
+**Does not work with Blender 4.0+**
 
 Exporting:
 - Meshes
